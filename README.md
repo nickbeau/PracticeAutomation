@@ -5,7 +5,6 @@ Welcome to the Practice Automation Repository. This repository contains useful s
 
 The following are contents of this repository:
 
-## Data
-* [Surnames.csv](./Data/Surnames.csv) A Comma Separated list of random computer generated last names.
-* [Trusts.csv](./Data/Trusts.csv) A Comma Separated lists of trusts created by using the data in Surnames.csv and adding "The " at the beginning and " Trust" at the end of each one
-* [New Company setup checklist - V1]('./Data/NewCompanySetupChecklsitV1.docx) A Simple word document for creating new companies.
+* [Section 1](./Documentation/Module1.md) In this module we learn how to automate the creation and renaming of folders and the automatic copying of documents
+
+
