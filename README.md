@@ -6,5 +6,6 @@ Welcome to the Practice Automation Repository. This repository contains useful s
 The following are contents of this repository:
 
 * [Section 1](./Documentation/Module1.md) In this module we learn how to automate the creation and renaming of folders and the automatic copying of documents
+* [Section 2](./Documentation/Module2.md) In this module we learn how to automate the process of sending happy birthday emails to clients from a list in SharePoint Online
 
 
