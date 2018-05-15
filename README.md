@@ -9,6 +9,6 @@ The following are contents of this repository:
 * [Section 2](./Documentation/Module2.md) In this module we learn how to automate the process of sending happy birthday emails to clients from a list in SharePoint Online
 * [Section 3](./Documentation/Module3.md) In this module we learn how to use approvals to automatically work with executive approval of documents and files.
 * [Section 4](./Documentation/Module4.md) In this module we learn how to create a Microsoft Form and a flow which responds to create an automated new client process
-* 
+* [Section 5](./Documentation/Module5.md) In this module we learn how to create a flow which takes flagged emails and converts them to Microsoft TO-DO items.
 
 
